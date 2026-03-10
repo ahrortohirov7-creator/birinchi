@@ -27,10 +27,10 @@ export default function Home() {
 
             
 <div>
-            <div className="flex items-center justify-around h-35 bg-emerald-900">
+            <div className="flex items-center justify-around h-35 bg-red-600">
 
           {/* matn */}
-          <img className="h-22" src=" https://i.pinimg.com/236x/fa/5e/67/fa5e67376018e06bd8ffb06b3129a717.jpg?nii=t" alt="rasm" />
+          <img className="h-22 rounded-4xl" src=" https://i.pinimg.com/236x/fa/5e/67/fa5e67376018e06bd8ffb06b3129a717.jpg?nii=t" alt="rasm" />
           <Link href={"/"}>
             <h1 className="flex text-4xl text-white font-mono font-bold pl-10  ">Apple<h1 className="text-blue-700">.uz</h1></h1>
           </Link>
