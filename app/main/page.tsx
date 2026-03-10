@@ -8,7 +8,7 @@ export default function Home() {
  
     <Navbar />
 
-      <div className=" flex items-center justify-center bg-amber-50 drop-shadow-2xl drop-shadow-blue-600">
+      <div className=" flex items-center justify-center bg-amber-50 drop-shadow-2xl drop-shadow-blue-600 mt-4">
         <img className="h-60 w-60" src="/1122.jpg" alt="" />
         <h1 className="text-xl font-mono font-bold">Apple iMac</h1>
         <img className="h-60 w-88" src="https://wheretobuyguides.com/wp-content/uploads/2016/11/where-to-buy-apple-computers-1.jpg" alt="" />
